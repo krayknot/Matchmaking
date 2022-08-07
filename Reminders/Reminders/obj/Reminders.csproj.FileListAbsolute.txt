@@ -1,0 +1,27 @@
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Programming Samples\C# Winforms\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSettings.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\ResolveAssemblyReference.cache
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSplash.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmLoginFranchisee.resources
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.exe.manifest
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.application
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.TrustInfo.xml
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe.manifest
+D:\Kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.application

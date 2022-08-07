@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Reminders">
+</Property><Property Name="Solution File" Value="C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders.sln">
+</Property><Property Name="User Options File" Value="C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders.suo">
+</Property><Property Name="Date" Value="19 January 2010">
+</Property><Property Name="Time" Value="18:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Reminders.sln" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Reminders.suo" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders.suo">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Reminders.csproj" Description="Project file successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Reminders.csproj">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Reminders.csproj.user" Description="Project user file successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Reminders.csproj.user">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\clsCommon.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\clsCommon.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmHistory.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmHistory.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmHistory.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmHistory.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmHistoryDetails.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmHistoryDetails.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmHistoryDetails.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmHistoryDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmLeftProfiles.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmLeftProfiles.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmLeftProfiles.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmLeftProfiles.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmLoginFranchisee.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmLoginFranchisee.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmLoginFranchisee.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmLoginFranchisee.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmSelectCustmer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmSelectCustmer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmSelectCustmer.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmSelectCustmer.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmSplash.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmSplash.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmSplash.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmSplash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\IReminder.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\IReminder.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Program.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Program.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Properties\Settings.settings" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Reminders_TemporaryKey.pfx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Reminders_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\RECL.ICO" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\RECL.ICO">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmHistory.resx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmHistory.resx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmHistoryDetails.resx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmHistoryDetails.resx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmLeftProfiles.resx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmLeftProfiles.resx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmLoginFranchisee.resx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmLoginFranchisee.resx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmSelectCustmer.resx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmSelectCustmer.resx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\frmSplash.resx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\frmSplash.resx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Properties\Resources.resx" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Properties\app.manifest" Description="File successfully backed up as C:\kshitij\Projects\Reminders\Reminders\Reminders\Backup\Reminders\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Reminders.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Reminders" Source="Reminders\Reminders.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Reminders.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Reminders.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Reminders" Source="Reminders\Reminders.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

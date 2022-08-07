@@ -1,0 +1,162 @@
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.pdb
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.exe.manifest
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.application
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.exe
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.pdb
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\ResolveAssemblyReference.cache
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmLoginFranchisee.resources
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSplash.resources
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.TrustInfo.xml
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe.manifest
+C:\kshitij\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.application
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.pdb
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.exe.manifest
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.application
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.exe
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\bin\Debug\Reminders.pdb
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmLoginFranchisee.resources
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.frmSplash.resources
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.TrustInfo.xml
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe.manifest
+H:\Projects\Projects\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.application
+F:\Krayknot\Backup\Applications\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.exe
+F:\Krayknot\Backup\Applications\Reminders\Reminders\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe.manifest
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.application
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.TrustInfo.xml
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe.manifest
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.application
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Kshitij\Clients\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.Properties.Resources.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistory.resources
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmHistoryDetails.resources
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmLeftProfiles.resources
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.CoreCompileInputs.cache
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojResolveAssemblyReference.cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistory.resources
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistoryDetails.resources
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmLeftProfiles.resources
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.Cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.CoreCompileInputs.cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojAssemblyReference.cache
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistory.resources
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistoryDetails.resources
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmLeftProfiles.resources
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.cache
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.CoreCompileInputs.cache
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojAssemblyReference.cache
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistory.resources
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistoryDetails.resources
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmLeftProfiles.resources
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.cache
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojAssemblyReference.cache
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistory.resources
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistoryDetails.resources
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmLeftProfiles.resources
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.cache
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.CoreCompileInputs.cache
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.exe
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\bin\Debug\Reminders.pdb
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csprojAssemblyReference.cache
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistory.resources
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmHistoryDetails.resources
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.FrmLeftProfiles.resources
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.frmSelectCustomer.resources
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.csproj.GenerateResource.cache
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.exe
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\Reminders\Reminders\obj\Debug\Reminders.pdb
