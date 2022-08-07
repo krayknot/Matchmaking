@@ -1,0 +1,162 @@
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+E:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+D:\Kshitij\Clients\Saatphere Data Import Utility\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Practice\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+E:\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2013\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Kshitij\Clients\Saatphere\Saatphere-Winforms 2015\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Kshitij\Projects\Clients\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Properties.Resources.resources
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateConnection.resources
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.frmCreateCredentialsFile.resources
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CoreCompileInputs.cache
+C:\Kshitij\Projects\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojResolveAssemblyReference.cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateConnection.resources
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateCredentialsFile.resources
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.Cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CoreCompileInputs.cache
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+C:\Users\krayk\Downloads\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojAssemblyReference.cache
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateConnection.resources
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateCredentialsFile.resources
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.cache
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CoreCompileInputs.cache
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CopyComplete
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+C:\Users\kshit\Documents\kshitij\lok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojAssemblyReference.cache
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateConnection.resources
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateCredentialsFile.resources
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.cache
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CopyComplete
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+C:\Users\kshit\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojAssemblyReference.cache
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateConnection.resources
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateCredentialsFile.resources
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.cache
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CoreCompileInputs.cache
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CopyComplete
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+C:\Users\krayk\Documents\kshitij\Alok\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe.config
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.exe
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\bin\Debug\SaatphereDataImport.pdb
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csprojAssemblyReference.cache
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.Form1.resources
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateConnection.resources
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.FrmCreateCredentialsFile.resources
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.GenerateResource.cache
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.csproj.CopyComplete
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.exe
+D:\Saatphere-Winforms 2017\Saatphere-Winforms 2017\Saatphere-WIN\SaatphereDataImport\SaatphereDataImport\obj\x86\Debug\SaatphereDataImport.pdb
