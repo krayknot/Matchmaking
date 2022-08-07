@@ -1,0 +1,860 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3452F64D-C687-40EA-9055-B4FA51E99591}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Saatphere_WIN</RootNamespace>
+    <AssemblyName>Keen</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <SupportUrl>http://krayknot.com</SupportUrl>
+    <ProductName>Keen</ProductName>
+    <PublisherName>krayknot</PublisherName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Hopstarter-Sleek-Xp-Basic-Administrator.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EncryptionLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\EncryptionLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Word.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Word.v9.0, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customer\FrmAddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmAddCustomer.Designer.cs">
+      <DependentUpon>FrmAddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\FrmAssignCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmAssignCustomer.Designer.cs">
+      <DependentUpon>FrmAssignCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\FrmPrintAssignedCustomersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmPrintAssignedCustomersForm.Designer.cs">
+      <DependentUpon>FrmPrintAssignedCustomersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\FrmReportAssignedCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmReportAssignedCustomers.Designer.cs">
+      <DependentUpon>FrmReportAssignedCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\FrmUploadCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\FrmUploadCustomers.Designer.cs">
+      <DependentUpon>FrmUploadCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial\FrmDsrExecutiveAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\FrmDsrExecutiveAdd.Designer.cs">
+      <DependentUpon>FrmDsrExecutiveAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial\FrmDsrExecutiveEditDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\FrmDsrExecutiveEditDelete.Designer.cs">
+      <DependentUpon>FrmDsrExecutiveEditDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial\FrmDsrAddNewRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\FrmDsrAddNewRecord.Designer.cs">
+      <DependentUpon>FrmDsrAddNewRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial\FrmDsrSearchReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\FrmDsrSearchReport.Designer.cs">
+      <DependentUpon>FrmDsrSearchReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial\FrmDsrShowAllReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial\FrmDsrShowAllReport.Designer.cs">
+      <DependentUpon>FrmDsrShowAllReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Franchisee\FrmExecutiveAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Franchisee\FrmExecutiveAdd.Designer.cs">
+      <DependentUpon>FrmExecutiveAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmActivityLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActivityLog.Designer.cs">
+      <DependentUpon>frmActivityLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAutoMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutoMatch.Designer.cs">
+      <DependentUpon>frmAutoMatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAutomatchPendingProfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutomatchPendingProfiles.Designer.cs">
+      <DependentUpon>frmAutomatchPendingProfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBiodata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBiodata.Designer.cs">
+      <DependentUpon>frmBiodata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComplaintList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComplaintList.Designer.cs">
+      <DependentUpon>frmComplaintList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComplaintsAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComplaintsAdd.Designer.cs">
+      <DependentUpon>frmComplaintsAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateRemark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateRemark.Designer.cs">
+      <DependentUpon>frmCreateRemark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateXMLs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateXMLs.Designer.cs">
+      <DependentUpon>frmCreateXMLs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerDetails.Designer.cs">
+      <DependentUpon>frmCustomerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomerMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerMaster.Designer.cs">
+      <DependentUpon>frmCustomerMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataExportStep1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataExportStep1.Designer.cs">
+      <DependentUpon>frmDataExportStep1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataExportStep2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataExportStep2.Designer.cs">
+      <DependentUpon>frmDataExportStep2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDuplicateIDList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDuplicateIDList.Designer.cs">
+      <DependentUpon>frmDuplicateIDList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFollowUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFollowUp.Designer.cs">
+      <DependentUpon>frmFollowUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenance.Designer.cs">
+      <DependentUpon>frmMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMultipleSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultipleSelection.Designer.cs">
+      <DependentUpon>frmMultipleSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.Designer.cs">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearch.Designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTestConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTestConnection.Designer.cs">
+      <DependentUpon>frmTestConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateLocalRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateLocalRecord.Designer.cs">
+      <DependentUpon>frmUpdateLocalRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpgradeMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpgradeMembership.Designer.cs">
+      <DependentUpon>frmUpgradeMembership.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\FrmAddCity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\FrmAddCity.Designer.cs">
+      <DependentUpon>FrmAddCity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\FrmAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\FrmAddUser.Designer.cs">
+      <DependentUpon>FrmAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\FrmEmailDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\FrmEmailDetails.Designer.cs">
+      <DependentUpon>FrmEmailDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\FrmMultipleProfilePicUpload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masters\FrmMultipleProfilePicUpload.Designer.cs">
+      <DependentUpon>FrmMultipleProfilePicUpload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxes\FrmPermissionDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxes\FrmPermissionDialog.Designer.cs">
+      <DependentUpon>FrmPermissionDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmCalendarActivities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmCalendarActivities.Designer.cs">
+      <DependentUpon>FrmCalendarActivities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmCalendarEditRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmCalendarEditRecord.Designer.cs">
+      <DependentUpon>FrmCalendarEditRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmCalendarReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmCalendarReports.Designer.cs">
+      <DependentUpon>FrmCalendarReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmCalender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmCalender.Designer.cs">
+      <DependentUpon>FrmCalender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmCalender_DeletefromQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmCalender_DeletefromQueue.Designer.cs">
+      <DependentUpon>FrmCalender_DeletefromQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmPhotoDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmPhotoDetails.Designer.cs">
+      <DependentUpon>FrmPhotoDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmProfileDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmProfileDetails.Designer.cs">
+      <DependentUpon>FrmProfileDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchOptionsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchOptionsList.Designer.cs">
+      <DependentUpon>FrmProfileMatchOptionsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchResults.Designer.cs">
+      <DependentUpon>FrmProfileMatchResults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchSearchProfileAdvanceSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchSearchProfileAdvanceSearch.Designer.cs">
+      <DependentUpon>FrmProfileMatchSearchProfileAdvanceSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchSearchProfileResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchSearchProfileResult.Designer.cs">
+      <DependentUpon>FrmProfileMatchSearchProfileResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchSearchProfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmProfileMatchSearchProfiles.Designer.cs">
+      <DependentUpon>FrmProfileMatchSearchProfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmResetPassword.Designer.cs">
+      <DependentUpon>FrmResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmSendWelcomeEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmSendWelcomeEmail.Designer.cs">
+      <DependentUpon>FrmSendWelcomeEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmUpdateAge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmUpdateAge.Designer.cs">
+      <DependentUpon>FrmUpdateAge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmUpdateSaatphereWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmUpdateSaatphereWin.Designer.cs">
+      <DependentUpon>FrmUpdateSaatphereWin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Customer\FrmAddCustomer.resx">
+      <DependentUpon>FrmAddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\FrmAssignCustomer.resx">
+      <DependentUpon>FrmAssignCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\FrmPrintAssignedCustomersForm.resx">
+      <DependentUpon>FrmPrintAssignedCustomersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\FrmReportAssignedCustomers.resx">
+      <DependentUpon>FrmReportAssignedCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\FrmUploadCustomers.resx">
+      <DependentUpon>FrmUploadCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\FrmDsrExecutiveAdd.resx">
+      <DependentUpon>FrmDsrExecutiveAdd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\FrmDsrExecutiveEditDelete.resx">
+      <DependentUpon>FrmDsrExecutiveEditDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\FrmDsrAddNewRecord.resx">
+      <DependentUpon>FrmDsrAddNewRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\FrmDsrSearchReport.resx">
+      <DependentUpon>FrmDsrSearchReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial\FrmDsrShowAllReport.resx">
+      <DependentUpon>FrmDsrShowAllReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Franchisee\FrmExecutiveAdd.resx">
+      <DependentUpon>FrmExecutiveAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActivityLog.resx">
+      <DependentUpon>frmActivityLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAutoMatch.resx">
+      <DependentUpon>frmAutoMatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAutomatchPendingProfiles.resx">
+      <DependentUpon>frmAutomatchPendingProfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBiodata.resx">
+      <DependentUpon>frmBiodata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComplaintList.resx">
+      <DependentUpon>frmComplaintList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComplaintsAdd.resx">
+      <DependentUpon>frmComplaintsAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateRemark.resx">
+      <DependentUpon>frmCreateRemark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreateXMLs.resx">
+      <DependentUpon>frmCreateXMLs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerDetails.resx">
+      <DependentUpon>frmCustomerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerMaster.resx">
+      <DependentUpon>frmCustomerMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataExportStep1.resx">
+      <DependentUpon>frmDataExportStep1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataExportStep2.resx">
+      <DependentUpon>frmDataExportStep2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDuplicateIDList.resx">
+      <DependentUpon>frmDuplicateIDList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFollowUp.resx">
+      <DependentUpon>frmFollowUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenance.resx">
+      <DependentUpon>frmMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMultipleSelection.resx">
+      <DependentUpon>frmMultipleSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearch.resx">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTestConnection.resx">
+      <DependentUpon>frmTestConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateLocalRecord.resx">
+      <DependentUpon>frmUpdateLocalRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpgradeMembership.resx">
+      <DependentUpon>frmUpgradeMembership.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masters\FrmAddCity.resx">
+      <DependentUpon>FrmAddCity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masters\FrmAddUser.resx">
+      <DependentUpon>FrmAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masters\FrmMultipleProfilePicUpload.resx">
+      <DependentUpon>FrmMultipleProfilePicUpload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxes\FrmPermissionDialog.resx">
+      <DependentUpon>FrmPermissionDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmCalendarActivities.resx">
+      <DependentUpon>FrmCalendarActivities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmCalendarEditRecord.resx">
+      <DependentUpon>FrmCalendarEditRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmCalendarReports.resx">
+      <DependentUpon>FrmCalendarReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmCalender.resx">
+      <DependentUpon>FrmCalender.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmCalender_DeletefromQueue.resx">
+      <DependentUpon>FrmCalender_DeletefromQueue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmPhotoDetails.resx">
+      <DependentUpon>FrmPhotoDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmProfileDetails.resx">
+      <DependentUpon>FrmProfileDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmProfileMatchOptionsList.resx">
+      <DependentUpon>FrmProfileMatchOptionsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmProfileMatchResults.resx">
+      <DependentUpon>FrmProfileMatchResults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmProfileMatchSearchProfileAdvanceSearch.resx">
+      <DependentUpon>FrmProfileMatchSearchProfileAdvanceSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmProfileMatchSearchProfileResult.resx">
+      <DependentUpon>FrmProfileMatchSearchProfileResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmProfileMatchSearchProfiles.resx">
+      <DependentUpon>FrmProfileMatchSearchProfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmResetPassword.resx">
+      <DependentUpon>FrmResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmSendWelcomeEmail.resx">
+      <DependentUpon>FrmSendWelcomeEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmUpdateAge.resx">
+      <DependentUpon>FrmUpdateAge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmUpdateSaatphereWin.resx">
+      <DependentUpon>FrmUpdateSaatphereWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bin\Debug\Saatphere-WIN.exe.config" />
+    <None Include="bin\Debug\Saatphere-WIN.vshost.exe.config" />
+    <None Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\.DS_Store" />
+    <None Include="bin\Debug\Templates\ProfileMatch\Template1\.DS_Store" />
+    <None Include="bin\Debug\Templates\ProfileMatch\Template1\images\.DS_Store" />
+    <None Include="bin\Debug\Templates\ProfileMatch\Template1\PSD\Untitled-1.psd" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_black_blue\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_black_blue\images\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_black_orange\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_black_orange\images\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_white_blue\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_white_blue\images\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_white_orange\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\structure_white_orange\images\.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_black_blue\._.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_black_blue\._images" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_black_blue\images\._.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_black_orange\._.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_black_orange\._images" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_black_orange\images\._.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_white_blue\._.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_white_blue\._images" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_white_blue\images\._.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_white_orange\._.DS_Store" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_white_orange\._images" />
+    <None Include="bin\Debug\Templates\WordProfiles\__MACOSX\structure_white_orange\images\._.DS_Store" />
+    <None Include="Templates\ProfileMatch\cm-holiday-template\slices\.DS_Store" />
+    <None Include="Templates\ProfileMatch\Template1\.DS_Store" />
+    <None Include="Templates\ProfileMatch\Template1\images\.DS_Store" />
+    <None Include="Templates\ProfileMatch\Template1\PSD\Untitled-1.psd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reminders\Reminders\Reminders.csproj">
+      <Project>{B99BB4E0-FD12-4FDC-83B5-BDE677A1F856}</Project>
+      <Name>Reminders</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SaatphereDataImport\SaatphereDataImport\SaatphereDataImport.csproj">
+      <Project>{BD3CD796-6EA8-4FB8-A44C-0A5590F3CE63}</Project>
+      <Name>SaatphereDataImport</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SaatphereWIN.DAL\SaatphereWIN.DAL.csproj">
+      <Project>{C81CE5B3-FA05-4338-8B28-0C07ED3A545F}</Project>
+      <Name>SaatphereWIN.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Notifications\" />
+    <Folder Include="bin\Debug\Templates\WelcomeEmail\" />
+    <Folder Include="bin\Debug\TemporaryXML\" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="TemporaryXML\" />
+    <Folder Include="XML\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\EncryptionLibrary.dll" />
+    <Content Include="bin\Debug\Saatphere-WIN.exe" />
+    <Content Include="bin\Debug\Saatphere-WIN.pdb" />
+    <Content Include="bin\Debug\Saatphere-WIN.vshost.exe" />
+    <Content Include="bin\Debug\SaatphereWIN.DAL.dll" />
+    <Content Include="bin\Debug\SaatphereWIN.DAL.pdb" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\cm-holiday-template.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\170x95.gif" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\240x135.gif" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\560x315.gif" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\footer.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\header-left-20.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\header-mid.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\header-right.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\header-stripe.gif" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\hello-seasons-greetings.gif" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\like-glyph_3.png" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\logo.gif" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\tweet-glyph_4.png" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\cm-holiday-template\slices\xmas-bg-845.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\andherioffice - Copy.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\andherioffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\ContactDetails\andherioffice.htm" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\ContactDetails\borivalioffice.htm" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\ContactDetails\indoreoffice.htm" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\ContactDetails\jaipuroffice.htm" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\ContactDetails\swargateoffice.htm" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\Copy of jaipuroffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\Copy of mumbaioffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\full_width.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\date-bg.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\header-bg.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img1 - Copy %282%29.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img1 - Copy.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img1.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img1_bak.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img2.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img3.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img4.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img5.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img6.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img7.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img8.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\img9.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\line-break-2.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\line-break-3.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\line-break-4.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\line-break-5.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\line-break-6.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\line-break.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\images\ribbon.jpg" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\indoreoffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\jaipuroffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\mumbaioffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\puneoffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\swargateoffice.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\Template1\WordDownload.html" />
+    <Content Include="bin\Debug\Templates\ProfileMatch\UserInfo.htm" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\images\bigImg.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\images\facebook.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\images\logo.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\images\macCat.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\images\openBrowser.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\images\twitter.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\index.html" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_blue\readme.txt" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\images\bigImg.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\images\facebook.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\images\logo.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\images\macCat.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\images\openBrowser.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\images\twitter.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\index.html" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_black_orange\readme.txt" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\images\bigImg.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\images\facebook.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\images\logo.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\images\macCat.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\images\openBrowser.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\images\twitter.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\index.html" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\profileContent.html" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\Profiles.html" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_blue\readme.txt" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\images\bigImg.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\images\facebook.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\images\logo.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\images\macCat.jpg" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\images\openBrowser.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\images\twitter.png" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\index.html" />
+    <Content Include="bin\Debug\Templates\WordProfiles\structure_white_orange\readme.txt" />
+    <Content Include="bin\Debug\XML\City.xml" />
+    <Content Include="bin\Debug\XML\State.xml" />
+    <Content Include="Hopstarter-Sleek-Xp-Basic-Administrator.ico" />
+    <Content Include="HTMLPage1.html" />
+    <Content Include="Images\edit-icon.png" />
+    <Content Include="Images\user-icon.png" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\cm-holiday-template.html" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\170x95.gif" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\240x135.gif" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\560x315.gif" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\footer.jpg" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\header-left-20.jpg" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\header-mid.jpg" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\header-right.jpg" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\header-stripe.gif" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\hello-seasons-greetings.gif" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\like-glyph_3.png" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\logo.gif" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\tweet-glyph_4.png" />
+    <Content Include="Templates\ProfileMatch\cm-holiday-template\slices\xmas-bg-845.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\andherioffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\Copy of jaipuroffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\Copy of mumbaioffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\full_width.html" />
+    <Content Include="Templates\ProfileMatch\Template1\images\date-bg.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\header-bg.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img1 - Copy %282%29.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img1 - Copy.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img1.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img1_bak.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img2.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img3.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img4.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img5.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img6.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img7.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img8.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\img9.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\line-break-2.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\line-break-3.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\line-break-4.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\line-break-5.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\line-break-6.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\line-break.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\images\ribbon.jpg" />
+    <Content Include="Templates\ProfileMatch\Template1\indoreoffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\jaipuroffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\mumbaioffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\puneoffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\swargateoffice.html" />
+    <Content Include="Templates\ProfileMatch\Template1\WordDownload.html" />
+    <Content Include="Templates\ProfileMatch\TemplateSendProfileWithoutAddress.htm" />
+    <Content Include="Templates\ProfileMatch\UserInfo.htm" />
+    <Content Include="Wallpaperfx-3d-Bluefx-Desktop-Usb.ico" />
+    <Content Include="Templates\WelcomeEmail\index.html" />
+    <Content Include="Templates\WelcomeEmail\indexa.htm" />
+    <Content Include="Templates\WelcomeEmail\indexi.htm" />
+    <Content Include="Templates\WelcomeEmail\indexj.html" />
+    <Content Include="Templates\WelcomeEmail\indexp.htm" />
+    <Content Include="Templates\WelcomeEmail\indexs.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
