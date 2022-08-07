@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C81CE5B3-FA05-4338-8B28-0C07ED3A545F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SaatphereWIN.DAL</RootNamespace>
+    <AssemblyName>SaatphereWIN.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EncryptionLibrary">
+      <HintPath>..\Saatphere-WIN\bin\Debug\EncryptionLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Automatch\ClsCommon.cs" />
+    <Compile Include="Automatch\ClsDelete.cs" />
+    <Compile Include="Automatch\ClsInsert.cs" />
+    <Compile Include="Automatch\ClsSelect.cs" />
+    <Compile Include="Automatch\Global.cs" />
+    <Compile Include="ClsCommon.cs" />
+    <Compile Include="ClsMaintenance.cs" />
+    <Compile Include="Complaints\ClsInsert.cs" />
+    <Compile Include="Complaints\ClsSelect.cs" />
+    <Compile Include="Complaints\ClsUpdate.cs" />
+    <Compile Include="Complaints\Global.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="DataTypes\Activity.cs" />
+    <Compile Include="DataTypes\Biodata.cs" />
+    <Compile Include="DataTypes\Complaint.cs" />
+    <Compile Include="DataTypes\ContactDetail.cs" />
+    <Compile Include="DataTypes\CustAcc.cs" />
+    <Compile Include="DataTypes\CustomerDetails.cs" />
+    <Compile Include="DataTypes\CustomerMaster.cs" />
+    <Compile Include="DataTypes\DSRExecutive.cs" />
+    <Compile Include="DataTypes\Executive.cs" />
+    <Compile Include="DataTypes\ExecutiveDetails.cs" />
+    <Compile Include="DataTypes\FollowUp.cs" />
+    <Compile Include="DataTypes\Franchisee.cs" />
+    <Compile Include="DataTypes\PreferredPartner.cs" />
+    <Compile Include="DataTypes\SaatphereDSR.cs" />
+    <Compile Include="DataTypes\SearchFields.cs" />
+    <Compile Include="DataTypes\SearchResults.cs" />
+    <Compile Include="Franchisee\ClsInsert.cs" />
+    <Compile Include="Franchisee\ClsSelect.cs" />
+    <Compile Include="Franchisee\ClsUpdate.cs" />
+    <Compile Include="Franchisee\Global.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="HTML\HtmlStrings.cs" />
+    <Compile Include="IAdmin.cs" />
+    <Compile Include="ICustomer.cs" />
+    <Compile Include="IFranchisee.cs" />
+    <Compile Include="Masters\ClsCreateMasters.cs" />
+    <Compile Include="Masters\ClsInsert.cs" />
+    <Compile Include="Masters\ClsSelect.cs" />
+    <Compile Include="Masters\Global.cs" />
+    <Compile Include="Membership\ClsDelete.cs" />
+    <Compile Include="Membership\ClsInsert.cs" />
+    <Compile Include="Membership\ClsSelect.cs" />
+    <Compile Include="Membership\clsUpdate.cs" />
+    <Compile Include="Membership\Global.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Shreeshaadi\ClsSelect.cs" />
+    <Compile Include="User\ClsDelete.cs" />
+    <Compile Include="User\ClsInsert.cs" />
+    <Compile Include="User\ClsSelect.cs" />
+    <Compile Include="User\ClsUpdate.cs" />
+    <Compile Include="User\Global.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DBClass\" />
+    <Folder Include="Masters\XML\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,95 @@
+﻿using System;
+
+namespace SaatphereWIN.DAL.DataTypes
+{
+    public class Biodata
+    {
+        public int RowIdBiodata { get; set; }
+        public string SurName { get; set; }
+        public string FirstName { get; set; }
+        public string MiddleName { get; set; }
+        public string Gender { get; set; }
+        public string Height { get; set; }
+        public string DateofBirth { get; set; }
+        public string PlaceofBirth { get; set; }
+        public string CityofResidence { get; set; }
+        public string Country { get; set; }
+        public string CitypCode { get; set; }
+        public string ResidenceNo { get; set; }
+        public string OfficepCode { get; set; }
+        public string OfficeNo { get; set; }
+        public string Email { get; set; }
+        public string PinCode { get; set; }
+        public string Mobile { get; set; }
+        public string Age { get; set; }
+        public string BiodataCreatedBy { get; set; }
+        public string MaritalStatus { get; set; }
+        public string MarriedBrothers { get; set; }
+        public string UnmarriedBrother { get; set; }
+        public string MarriedSister { get; set; }
+        public string UnmarriedSister { get; set; }
+        public string NumberofChildren { get; set; }
+        public string EducationStatus { get; set; }
+        public string Complextion { get; set; }
+        public string AboutMother { get; set; }
+        public string AboutFather { get; set; }
+        public string BodyType { get; set; }
+        public string PhysicallyChallenged { get; set; }
+        public string TimeofBirthH { get; set; }
+        public string TimeofBirthM { get; set; }
+        public string Occupation { get; set; }
+        public string AnnualIncome { get; set; }
+        public string Religion { get; set; }
+        public string Caste { get; set; }
+        public string Gotra { get; set; }
+        public string Manglik { get; set; }
+        public string Mothertongue { get; set; }
+        public string Diet { get; set; }
+        public string Hearaboutus { get; set; }
+        public string ExpectedPartner { get; set; }
+        public string MoreaboutCandidate { get; set; }
+        public string Remark { get; set; }
+        public string Photograph { get; set; }
+        public string Status { get; set; }
+        public string FranchiseeUserName { get; set; }
+        public string Membershiptype { get; set; }
+        public string Validity { get; set; }
+        public string ValidityLeft { get; set; }
+        public string StartDate { get; set; }
+        public string UpdateDate { get; set; }
+        public string LastDate { get; set; }
+        public string SubCaste { get; set; }
+        public string CastenoBar { get; set; }
+        public string AboutCandidateFamily { get; set; }
+        public DateTime RegistrationDate { get; set; }
+        public bool Active { get; set; }
+        public bool UnsubscribeEmailStatus { get; set; }
+        public bool VisibleOutside { get; set; }
+        public string CandidateLocation { get; set; }
+        public string BloodGroup { get; set; }
+        public string HoroscopeMatchingRequirement { get; set; }
+        public bool Approved { get; set; }
+        public string EducationDetails { get; set; }
+        public string OccupationDetails { get; set; }
+        public string FatherDetails { get; set; }
+        public string MotherDetails { get; set; }
+        public string SisterDetails { get; set; }
+        public string BrotherDetails { get; set; }
+        public string CandidateOtherDetails { get; set; }
+        public string Source { get; set; }
+        public string Email2 { get; set; }
+        public bool VisibleInside { get; set; }
+        public string LastUpdateBio { get; set; }
+        public string RejectReason { get; set; }
+        public string SentBy { get; set; }
+        public string ReceivedMode { get; set; }
+        public string ReceivedOn { get; set; }
+        public string HighestDegree { get; set; }
+        public string ResidentialAddress { get; set; }
+        public int Executive { get; set; }
+        public string BiodataLocality { get; set; }
+        public bool BiodataBelieveinHoroscopeMatching { get; set; }
+        public bool BiodataNriAcceptable { get; set; }
+        public decimal BiodataWeight { get; set; }
+    }
+}
