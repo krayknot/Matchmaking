@@ -1,0 +1,10 @@
+E:\BulkEmail\BulkEmail\bin\Debug\BulkEmail.exe
+E:\BulkEmail\BulkEmail\bin\Debug\BulkEmail.pdb
+E:\BulkEmail\BulkEmail\obj\Debug\ResolveAssemblyReference.cache
+E:\BulkEmail\BulkEmail\obj\Debug\BulkEmail.Properties.Resources.resources
+E:\BulkEmail\BulkEmail\obj\Debug\BulkEmail.csproj.GenerateResource.Cache
+E:\BulkEmail\BulkEmail\obj\Debug\BulkEmail.exe
+E:\BulkEmail\BulkEmail\obj\Debug\BulkEmail.pdb
+E:\BulkEmail\BulkEmail\obj\Debug\BulkEmail.frmUploadFiles.resources
+C:\Users\Kshitij Kumar\Desktop\BulkEmail\obj\Debug\BulkEmail.exe
+C:\Users\Kshitij Kumar\Desktop\BulkEmail\obj\Debug\BulkEmail.pdb
